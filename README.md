@@ -10,8 +10,11 @@ Apply Data Analysis for a countrywide traffic accident dataset from kaggle calle
 This is list of required packages and modules for the project to be installed :
 * <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a>
 * Opendatasets
-* Pandas 
-* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Folium
+
 
 Install all required packages :
  ```sh
