@@ -1,2 +1,6 @@
 opendatasets
+numpy
 pandas
+matplotlib
+seaborn
+folium
