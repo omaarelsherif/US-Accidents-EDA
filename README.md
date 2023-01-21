@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">US accidents analysis</h1>
+<h1 align="center">US accidents EDA</h1>
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
