@@ -1,9 +1,9 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">EDA of US accidents dataset</h1>
+<h1 align="center">US accidents analysis</h1>
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
-Apply Exploratory Data Analysis for a countrywide traffic accident dataset from kaggle called [US accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) 
+Apply Data Analysis for a countrywide traffic accident dataset from kaggle called [US accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) 
 
 <!-- PREREQUISTIES -->
 ## <br>**➲ Prerequisites**
